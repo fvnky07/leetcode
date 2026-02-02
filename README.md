@@ -1,5 +1,7 @@
 leetcode solution bank
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/fvnky)
+
 - JavaScript / TypeScript
 
 ---
